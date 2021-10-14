@@ -1,0 +1,6 @@
+{
+  "container": {
+    "startScript": "start",
+    "node": "14"
+  }
+}
